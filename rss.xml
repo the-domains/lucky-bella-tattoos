@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Lucky Bella Tattoos]]></title>
         <description><![CDATA[Lucky Bella Tattoos]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lucky-bella-tattoos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 00:28:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Apr 2016 00:30:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lucky-bella-tattoos/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f60243ce-7c76-4d74-9a50-68c8c1e19ad9.jpg">]]></description>
+            <link>https://thegrid.ai/lucky-bella-tattoos/45ec4f94-6e68-405b-a024-e5d98a185a92/index.html</link>
+            <guid isPermaLink="false">45ec4f94-6e68-405b-a024-e5d98a185a92</guid>
+            <pubDate>Fri, 15 Apr 2016 00:29:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/32caff11-e5c0-49c4-9cd8-bf841282a6ee.jpg">]]></description>
-            <link>undefinedfe3769d3-ab58-4b1a-a2a6-30e15aef9b3c/index.html</link>
+            <link>https://thegrid.ai/lucky-bella-tattoos/fe3769d3-ab58-4b1a-a2a6-30e15aef9b3c/index.html</link>
             <guid isPermaLink="false">fe3769d3-ab58-4b1a-a2a6-30e15aef9b3c</guid>
             <pubDate>Fri, 15 Apr 2016 00:28:15 GMT</pubDate>
         </item>
